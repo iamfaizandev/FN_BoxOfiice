@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/FN_BoxOfiice/static/css/main.b2586571.css",
-    "main.js": "/FN_BoxOfiice/static/js/main.d2c975fe.js",
+    "main.css": "/FN_BoxOfiice/static/css/main.ccfec8cb.css",
+    "main.js": "/FN_BoxOfiice/static/js/main.3cb6e317.js",
     "service-worker.js": "/FN_BoxOfiice/service-worker.js",
     "index.html": "/FN_BoxOfiice/index.html",
-    "main.b2586571.css.map": "/FN_BoxOfiice/static/css/main.b2586571.css.map",
-    "main.d2c975fe.js.map": "/FN_BoxOfiice/static/js/main.d2c975fe.js.map"
+    "main.ccfec8cb.css.map": "/FN_BoxOfiice/static/css/main.ccfec8cb.css.map",
+    "main.3cb6e317.js.map": "/FN_BoxOfiice/static/js/main.3cb6e317.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2586571.css",
-    "static/js/main.d2c975fe.js"
+    "static/css/main.ccfec8cb.css",
+    "static/js/main.3cb6e317.js"
   ]
 }
