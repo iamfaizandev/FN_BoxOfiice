@@ -1,13 +1,10 @@
 body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  padding-top: 40px;
+  background-size:100% 190%;
+  background-image: linear-gradient(132deg, #F4D03F 0%, #16A085 100%);
+  background-repeat: no-repeat;
+  
 }
